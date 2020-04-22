@@ -7,10 +7,10 @@ Este generador servirá para crear proyectos NPM de Javascript basándonos en lo
 * NPM >= 6.12.0
 
 # Install
-```npm install -g npm-cli-generator```
+```npm install -g beniju-node-cli-generator```
 # Usage
 Ejecutamos esta orden
-```npm-cli-generator```
+```beniju-node-cli-generator```
 
 # Log
 
